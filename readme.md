@@ -6,7 +6,7 @@ allprojects {
 }
 
 	dependencies {
-	        implementation 'com.github.liangrk:HoverLayout:Tag'
+	        implementation 'com.github.liangrk:HoverLayout:1.0.1'
 	}
 ```
 
