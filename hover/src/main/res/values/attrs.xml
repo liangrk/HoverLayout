@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HoverLayout">
+        <attr name="hover_container_layout" format="reference" />
+    </declare-styleable>
+</resources>
